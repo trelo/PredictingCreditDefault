@@ -3,7 +3,7 @@ Develop a predictive model to better classify “at-risk” potential customers.
 
 Step 1: Perform exploratory data analysis on the titanic data set. 
 
-Multiple packages were used in the notenook. These packages were imported into python 2.7.3. The packages used are:
+Multiple packages were used in the notenook. These packages were imported into python 3.5. The packages used are:
 
 numpy
 pandas
