@@ -12,8 +12,6 @@ Multiple packages were used in the notenook. These packages were imported into p
 
 The first two packages are for combutation and data analysis, and the other two packages are for data visulaization.
 
-Predicting the likelihood of default on loan using scikit learn package will be discussed in future posts.
-
 **Step 2: Build and Evaluate Models to predict the likelihood of credit card default for customers of the Bank**
 
 Based on the understanding and the exploration of the dataset, we will build a supervised machine learning model using Python and Scikit-learn
