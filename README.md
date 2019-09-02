@@ -15,6 +15,8 @@ Predicting the likelihood of default on loan using scikit learn package will be 
 
 **Step 2: Build and Evaluate Models to predict the likelihood of credit card default for customers of the Bank**
 
+Based on the understanding and the exploration of the dataset, we will build a supervised machine learning model using Python and Scikit-learn
+
 The classification models used for this analysis are: 
 - Logistic Regression
 - Decision Tree and 
